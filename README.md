@@ -47,16 +47,16 @@ Passionate Fullstack Web and Mobile Developer dedicated to creating robust, secu
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clems023&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clems023&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clems023&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=clems023&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clems023&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clems023&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ### GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clems023&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=clems023&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ### Top Contributed Repo
