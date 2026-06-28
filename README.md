@@ -45,4 +45,15 @@ Passionate Fullstack Web and Mobile Developer dedicated to creating robust, secu
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clementadouna@gmail.com)
 
 ---
+---
+
+## GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radial&hide_border=true" alt="Stats de Clément" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radial&hide_border=true" alt="Langages les plus utilisés" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO&theme=radial&hide_border=true" alt="GitHub Streak" />
+</p>
 
