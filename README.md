@@ -1,5 +1,5 @@
 # Clément Adouna
-**Backend (Node.js/NestJS) & Fullstack Web/Mobile Developer**  
+**Backend (Node.js | PHP | Python ) & Fullstack Web/Mobile Developer**  
 Lomé, Togo | clementadouna@gmail.com | 
 [Portfolio](https://clemsyfolio.vercel.app/fr) | [LinkedIn](https://linkedin.com/in/clément-adouna)
 
@@ -19,7 +19,7 @@ Passionate Fullstack Web and Mobile Developer dedicated to creating robust, secu
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
- <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white" alt="Symfony" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
@@ -32,7 +32,7 @@ Passionate Fullstack Web and Mobile Developer dedicated to creating robust, secu
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&byte&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 </p>
@@ -45,12 +45,9 @@ Passionate Fullstack Web and Mobile Developer dedicated to creating robust, secu
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clementadouna@gmail.com)
 
 ---
----
-
----
 
 ## GitHub Stats
 <p align="left">
-  <!-- Stats globales simplifiées -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radial&hide_border=true&hide=rank" alt="Stats de Clément" height="150" />
+  <!-- Toutes les statistiques totales de clems023 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=clems023&show_icons=true&theme=radial&hide_border=true" alt="Stats de Clément" height="150" />
 </p>
