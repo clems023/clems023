@@ -47,13 +47,10 @@ Passionate Fullstack Web and Mobile Developer dedicated to creating robust, secu
 ---
 ---
 
+---
+
 ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radial&hide_border=true" alt="Stats de Clément" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radial&hide_border=true" alt="Langages les plus utilisés" height="180" />
+  <!-- Stats globales simplifiées -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radial&hide_border=true&hide=rank" alt="Stats de Clément" height="150" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO&theme=radial&hide_border=true" alt="GitHub Streak" />
-</p>
-
