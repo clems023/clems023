@@ -48,6 +48,6 @@ Passionate Fullstack Web and Mobile Developer dedicated to creating robust, secu
 
 ## GitHub Stats
 <p align="left">
-  <!-- Toutes les statistiques totales de clems023 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=clems023&show_icons=true&theme=radial&hide_border=true" alt="Stats de Clément" height="150" />
+  <img src="https://img.shields.io/github/followers/clems023?style=flat-square&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/clems023?style=flat-square&logo=github&label=Stars" alt="Stars" />
 </p>
