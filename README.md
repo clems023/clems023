@@ -48,6 +48,8 @@ Passionate Fullstack Web and Mobile Developer dedicated to creating robust, secu
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://img.shields.io/github/followers/clems023?style=flat-square&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/clems023?style=flat-square&logo=github&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?bgColor=0f172a&color=38bdf8&label=Total%20Commits&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Aclems023&style=flat-square&logo=github" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/dynamic/json?bgColor=0f172a&color=34d399&label=Pull%20Requests&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aclems023%20type%3Apr&style=flat-square&logo=github-pull-requests" alt="Total PRs" />
+  <img src="https://img.shields.io/badge/dynamic/json?bgColor=0f172a&color=fbbf24&label=PRs%20Reviewed&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dreviewed-by%3Aclems023%20type%3Apr&style=flat-square&logo=github" alt="PRs Reviewed" />
+  <img src="https://img.shields.io/badge/dynamic/json?bgColor=0f172a&color=f87171&label=Issues%20Opened&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aclems023%20type%3Aissue&style=flat-square&logo=github" alt="Issues Opened" />
 </p>
